@@ -1,5 +1,5 @@
-# Connect4
-### A Python program based on the classic game of "Connect 4."
+# Connect_4
+### A Python program based on the classic game of Connect 4.
 The rules of the game are the same as those of the regular "Connect 4" game.  
 
 The variations here are that 
